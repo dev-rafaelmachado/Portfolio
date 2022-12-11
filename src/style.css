@@ -98,6 +98,10 @@ main{
   background-size: cover;
   background-position: 150%;
 }
+.img6{
+  background-image: url('../imgs/BlockNote.png');
+  background-size: 102%;
+}
 
 .desc{
   height: 100%;
