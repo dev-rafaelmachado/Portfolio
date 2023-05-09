@@ -102,6 +102,18 @@ main{
   background-image: url('../imgs/BlockNote.png');
   background-size: 102%;
 }
+.img7{
+  background-image: url('../imgs/list-with-firebase.png');
+  background-size: 100%;
+}
+.img8{
+  background-image: url('../imgs/wheater-app.png');
+  background-size: 100%;
+}
+.img9{
+  background-image: url('../imgs/recipe-router.png');
+  background-size: 100%;
+}
 
 .desc{
   height: 100%;
